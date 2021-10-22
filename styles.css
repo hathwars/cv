@@ -1,0 +1,41 @@
+body {
+    background-color: #f5f0e3;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, serif;
+}
+
+div {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #006600;
+    width: 50%
+}
+
+h2 {
+    color: #006600;
+    width:50%;
+}
+
+table {
+    width:-50%;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #fd5f00;
+    border-width: 5px;
+    width: 5%;
+}
+
+.sun{
+    background-size: 100vw 100vh;
+}
+
+.top {
+    background-color: #f5f0e3;
+    text-align: center;
+}
